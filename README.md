@@ -1,10 +1,7 @@
 # Voronoi Algorithm
 
-
-
-
-Dibugging result
-[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Coloured_Voronoi_3D_slice.svg/220px-Coloured_Voronoi_3D_slice.svg.png)]
+Debbugging result
+![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Coloured_Voronoi_3D_slice.svg/220px-Coloured_Voronoi_3D_slice.svg.png)
 
  This code makes point that nearest from the reference point and express RGB colors.
 
@@ -72,4 +69,5 @@ Creating image
 ```sh
 if __name__== "__main__":
   generate_voronoi_diagram(200, 100) 
+ 
      
