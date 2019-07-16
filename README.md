@@ -1,5 +1,8 @@
 # Voronoi Algorithm
 
+
+
+
 Dibugging result
 [![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Coloured_Voronoi_3D_slice.svg/220px-Coloured_Voronoi_3D_slice.svg.png)]
 
