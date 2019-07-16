@@ -1,4 +1,4 @@
-# # Voronoi Algorithm
+# Voronoi Algorithm
 
 This code makes point that nearest from the reference point and express RGB colors.
 
