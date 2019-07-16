@@ -1,13 +1,11 @@
-# Dillinger
+# Voronoi Algorithm
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTMLS Markdown editor.
+This code makes point that nearest from the reference point and express RGB colors.
 
-- Type some Markdown on the left
-- See HTML in the right
-- Magic
+It uses Python image, random and math library.
+X-axis mean imgx, it has 200 pixel. Y-axis mean imgy, it has 100 pixel. 
+By using a list, i can define a values about nx, ny, nr, ng,nb.
+And then it measures the distance to determine the shortest distance. 
+(x,y) pixel that the shortest distance point has the color of nr[j], ng[j], nb[j].
 
-You can also:
- - Import and save files from GitHub, Dropbox, Google Drive and One Drive
- - Drog and drop files into Dillinger
- - Export documents as Markdown, HTML and PDF
      
